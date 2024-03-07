@@ -1,1 +1,1 @@
-Hello this file contains the String related functyions
+Hello this file contains the String related functions
